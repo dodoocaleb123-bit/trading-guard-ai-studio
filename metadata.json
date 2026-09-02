@@ -1,0 +1,6 @@
+{
+  "name": "Trading Guard AI",
+  "description": "Multi-timeframe algorithmic trading intelligence, trade guard, strategy rule audits, and v5 stateful market scanner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
